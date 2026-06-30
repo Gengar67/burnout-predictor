@@ -26,3 +26,5 @@ if stress_level > 70:
     print(f"{RED}Your stress level is: {stress_level} - WARNING: High Burnout Risk!{RESET}")
 else:
     print(f"{GREEN}Your stress level is: {stress_level} - You are good to code!{RESET}")
+
+input("\nPress Enter to close this window...")
