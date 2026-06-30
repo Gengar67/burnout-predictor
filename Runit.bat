@@ -1,0 +1,2 @@
+python burnout.py
+pause
